@@ -1,4 +1,7 @@
-### Project Setup
+Based on:
+https://medium.com/@vindya.gunawardena/bdd-beyond-tdd-9d733c58bba7
+
+### Project Setup 
 
 * Create an empty gradle project with following dependencies
   1. spock-core
